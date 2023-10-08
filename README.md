@@ -43,6 +43,7 @@ These are some existing sandbox / automated setup solutions today:
 1. [ROSBlox](https://rosblox.github.io/)
 1. [Ansible-based setup](https://github.com/artivis/ansible-role-ros)
 1. [Docker Container-based](https://hub.docker.com/r/jderobot/robotics-academy/tags)
+1. [A central server on campus with ROS2 installed - students use JupyterLabs on their machines](https://github.com/ceeoinnovations/EN1-iRobot)
 
 
 
