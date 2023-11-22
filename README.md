@@ -43,7 +43,7 @@ These are some existing sandbox / automated setup solutions today:
 1. [ROSBlox](https://rosblox.github.io/)
 1. [Ansible-based setup](https://github.com/artivis/ansible-role-ros)
 1. [Docker Container-based](https://hub.docker.com/r/jderobot/robotics-academy/tags)
-
-
+1. [ROS development on Linux, Windows and macOS with multipass](https://ubuntu.com/blog/ros-development-on-linux-windows-and-macos)
+1. [Setting up ROS 2 Humble with LXD](https://artivis.github.io/post/2022/ros2-humble/)
 
 
